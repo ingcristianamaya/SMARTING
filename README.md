@@ -1,0 +1,2 @@
+# SMARTING
+Caso de prueba
